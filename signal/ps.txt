@@ -1,0 +1,3 @@
+shin      4402  4383  0 17:39 pts/18   00:00:00 ./killReceiver
+shin      4632  4631  0 17:53 pts/4    00:00:00 sh -c ps -ef | grep .killReceiver > ps.txt
+shin      4634  4632  0 17:53 pts/4    00:00:00 grep .killReceiver
